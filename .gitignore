@@ -1,0 +1,10 @@
+# Files above GitHub's 100 MB per-file limit
+Hyperparameter Tuning.zip
+Convolutional Neural Networks/W2A1/models/resnet50.data-00000-of-00001
+Convolutional Neural Networks/W2A1/resnet50.h5
+Convolutional Neural Networks/W3A1/model_data/variables/variables.data-00000-of-00001
+Convolutional Neural Networks/W4A2/pretrained-model/imagenet-vgg-verydeep-19.mat
+Sequence Models/W2A1/data/glove.6B.50d.txt
+Sequence Models/W2A2/data/glove.6B.50d.txt
+Sequence Models/W3A2/XY_dev/X_dev.npy
+Sequence Models/W3A2/XY_train/X.npy
